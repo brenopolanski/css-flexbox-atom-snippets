@@ -4,7 +4,7 @@
 
 ## Install
 
-Go to `Atom > Preferences...` then search for Flexbox Snippets in Install tab.
+Go to `Atom > Preferences...` then search for **Flexbox Snippets** in Install tab.
 
 ## Development
 
