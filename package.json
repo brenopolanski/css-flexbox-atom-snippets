@@ -1,9 +1,8 @@
 {
   "name": "css-flexbox-atom-snippets",
-  "main": "./lib/flexbox-snippets",
-  "version": "0.1.0",
-  "description": "CSS flexbox snippets for Atom",
   "main": "Gruntfile.js",
+  "version": "0.2.0",
+  "description": "CSS flexbox snippets for Atom",
   "scripts": {
     "test": "grunt"
   },
