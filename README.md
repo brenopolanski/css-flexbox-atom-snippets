@@ -2,6 +2,18 @@
 
 ## Install
 
+Go to `Atom > Preferences...` then search for Flexbox Snippets in Install tab.
+
+## Development
+
+```sh
+$ cd ~/.atom/packages
+$ git clone git@github.com:brenopolanski/css-flexbox-atom-snippets.git
+$ cd css-flexbox-atom-snippets
+$ apm install
+$ apm link
+```
+
 ## Snippets
 
 Works for CSS/LESS/Sass/SCSS & Stylus.
