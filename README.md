@@ -1,5 +1,7 @@
 # CSS Flexbox snippets for Atom [![Build Status](https://travis-ci.org/brenopolanski/css-flexbox-atom-snippets.svg?branch=master)](https://travis-ci.org/brenopolanski/css-flexbox-atom-snippets)
 
+![image snippets](https://raw.githubusercontent.com/brenopolanski/css-flexbox-atom-snippets/assets/snippets.gif)
+
 ## Install
 
 Go to `Atom > Preferences...` then search for Flexbox Snippets in Install tab.
